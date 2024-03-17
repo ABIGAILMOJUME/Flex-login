@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+.Main{
+  border: none;
+  border-radius: .5em;
+  text-align: left;
+  width: 500px;
+  background-color:white;
+  height:350px ;
+  box-shadow: 0 0 13px #ececf170;
+  
+}
+
+.acct{
+  font-size: larger;
+  font-weight: 700;
+}
+
+.forgot{
+  color: #007bff;
+  text-decoration: none !important;
+  text-align: end !important;
+}
+
+.final-para{
+  color: gray;
+
+}
+.flex{
+  width: 80px;
+  height:30px;
+  
+}
+
+
+.input{
+  background: rgb(246, 248, 250);
+    height: 46px;
+    color: rgba(46, 45, 45, 0.8);
+    border-radius: 3px;
+    line-height: 23px;
+    font-size: 18px;
+}
+
+.login-btn{
+  background: rgb(21, 132, 234);
+    height: 50px;
+    width: 100%
+}
+
+
+.form {
+  padding: 1em;
+}
+
+label {
+  font-weight: 600;
+}
